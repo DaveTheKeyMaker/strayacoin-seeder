@@ -400,7 +400,7 @@ extern "C" void* ThreadStats(void*) {
   return nullptr;
 }
 
-static const string mainnet_seeds[] = {"107.191.56.211", "p2pool.mxblue.net.au", "node1.nahyeah.network", "97.74.232.26", "seed.straya.network", ""};
+static const string mainnet_seeds[] = {"strayawallet.me", "explorer.strayacoin.org", "45.63.31.211", "54.39.16.195", "seeder.strayacoinpos.com", ""};
 static const string testnet_seeds[] = {"testnet-seed.litecointools.com", "seed-b.litecoin.loshan.co.uk", "testnet-seed.ltc.xurious.com", "dnsseed-testnet.thrasher.io", ""};
 static const string *seeds = mainnet_seeds;
 
